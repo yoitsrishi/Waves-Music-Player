@@ -8,6 +8,14 @@ h2,
 h3 {
   color: rgb(24, 14, 14);
 }
-
+body {
+  font-family: 'Lato', sans-serif;
+}
+h3,
+h4 {
+  font-weight: 400;
+  color: grey;
+}
 @import './song';
 @import './player';
+@import './library';
