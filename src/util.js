@@ -8,7 +8,7 @@ function chillHop() {
       cover:
         'https://images.hungama.com/c/1/096/2c0/62018349/62018349_300x300.jpg',
       id: uuidv4(),
-      active: false,
+      active: true,
       color: ['#561010', '#C88D5C'],
       audio:
         'https://media.hungama.com/c/4/bd6/06e/62018351/62018351_128.mp3?b8TSxHTJvtpXbItcbYIVFYdEHxRqmOFJFll4sOMQV2YlZelygY439oZ05lCJsuLscqzFAO_RvpmleYxvQAlLF3sxsTATeN2adFJYaSn6n5E3rMPf-1g8k7gq7T0kHmyeGZheaw',
@@ -55,7 +55,7 @@ function chillHop() {
       active: false,
       color: ['#561010', '#C88D5C'],
       audio:
-        'https://media.hungama.com/c/4/a2a/fdf/22981560/22981560_128.mp3?z3uikdmiRm-ynQSgOpShkYb9PxaDk8r5D0vUVwbvI76E5jrCFvriowkRcQkN87jtQ8qCRc_scD8Q5PRMm9uVkva--RjA7gaBTGH-s0gc5LTgJPwvEU_X4Ffox2oUurrEpq1_0Q',
+        'https://media.hungama.com/c/4/a2a/fdf/22981560/22981560_128.mp3?BA9m9H5NW4pps4LivU1kmkZgNVU89fq70By-o2nr28uoSTBdA9zVCdusiI6WfBejfy_J6BTKG0lV8sG8trcslnBzc8FAct6G4uhaLk6CCd1sO6xEpsXZnYsBjVz35Xrbq63P6g',
     },
     {
       name: 'After Hours',
